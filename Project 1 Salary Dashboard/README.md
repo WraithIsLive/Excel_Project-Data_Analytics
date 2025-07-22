@@ -5,7 +5,7 @@
 ## Introduction  
 The data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequetly compensated.  
 
-The data is from my @lukebarousse Excel course that I used in my project, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.  
+The data is from @lukebarousse's Excel course that I used in my project, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.  
 ### Dashboard File  
 My final dashboard is in [My 1st Project (Salary-Dashboard).xlsx](https://github.com/WraithIsLive/Excel_Project-Data_Analytics/blob/main/Project%201%20Salary%20Dashboard/My%201st%20Project%20(Salary-Dashboard).xlsx).  
 
@@ -16,7 +16,7 @@ The following Excel skills were utilized for analysis:
 - ❎ **Data Validation**
 
 ### Data Jobs Dataset  
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via @lukebarousse Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:  
+The dataset used for this project contains real-world data science job information from 2023. The dataset is available via @lukebarousse's Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:  
 - 👨‍💼 **Job titles**  
 - 💰 **Salaries**
 - 📍 **Locations**
@@ -27,11 +27,13 @@ The dataset used for this project contains real-world data science job informati
 ### 📉 Charts  
 
 #### 📊 Data Science Job Salaries - Bar Chart  
-<img width="850" height="550" alt="1_Salary_Dashboard_Chart1" src="https://github.com/user-attachments/assets/c39d2fe6-dd0f-41df-a021-bd0e9fe249fb" />  
-- 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.  
-- 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
-- 📉 **Data Organization:** Sorted job titles by descending salary for improved readibility.
-- 💡 **Insightes Gained:** This enables quick identification of salary trends, nothing that Senior roles and Engineers are higher-paying than Analyst roles.  
+
+<img width="850" height="550" alt="1_Salary_Dashboard_Chart1" src="https://github.com/user-attachments/assets/c39d2fe6-dd0f-41df-a021-bd0e9fe249fb" />    
+
+- 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.    
+- 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.  
+- 📉 **Data Organization:** Sorted job titles by descending salary for improved readibility.  
+- 💡 **Insightes Gained:** This enables quick identification of salary trends, nothing that Senior roles and Engineers are higher-paying than Analyst roles.    
 
 #### 🗺️ Country Median Salaries - Map Chart  
 ![1_Salary_Dashboard_Country_Map](https://github.com/user-attachments/assets/9c280392-380b-489c-a608-7b787f1bc578)  
@@ -89,4 +91,4 @@ IF(
 <img height="400" alt="1_Salary_Dashboard_Data_Validation" src="https://github.com/user-attachments/assets/5a1f835f-b9f1-4e34-bb91-fa35130ef79c" />  
 
 ## Conclusion  
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from @lukebarousse Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from @lukebarousse's Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
