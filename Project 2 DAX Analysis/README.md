@@ -27,8 +27,8 @@ It includes detailed information on:
 ## 1️⃣ Do more skills get you better pay?  
 ### 🔍 Skill: Power Query (ETL)  
 #### 📥 Extract  
-- I first used Power Query to extract the original data (`data_salary_all.xlsx`) and create two queries:
-  ○ 🗃️ First one with all the data jobs information.
+- I first used Power Query to extract the original data (`data_salary_all.xlsx`) and create two queries:  
+  ○ 🗃️ First one with all the data jobs information.  
   ○ 🔧 The second listing the skills for each job ID.
 #### 🔄 Transform  
 - Then, I transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.  
