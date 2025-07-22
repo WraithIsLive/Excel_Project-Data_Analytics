@@ -17,7 +17,7 @@ The following Excel skills were utilized for analysis:
 - 🔍 **Power Query**
 - 💪 **Power Pivot**
 ### Data jobs Dataset  
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via @lukebarousse Excel course, which provides a foundation for analyzing data using Excel.  
+The dataset used for this project contains real-world data science job information from 2023. The dataset is available via @lukebarousse's Excel course, which provides a foundation for analyzing data using Excel.  
 
 It includes detailed information on:  
 - 👨‍💼 **Job titles**
